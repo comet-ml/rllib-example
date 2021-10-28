@@ -18,7 +18,7 @@ export COMET_API_KEY=<Your API Key>
 
 ## To Run
 
-**Note:** To run this example you will need a machine with more than 2 CPUs.
+**Note:** To run this example you will need a machine with at least 4 CPUs.
 
 ```
 python comet_rllib_example.py
