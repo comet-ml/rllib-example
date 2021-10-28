@@ -25,4 +25,4 @@ python comet_rllib_example.py
 ```
 
 ## Example Experiment
-You can find an example of a completed run in this [Experiment](https://www.comet.ml/team-comet-ml/rllib-test/0d1f55a345e54b5ea915aff9ef85a4d2?experiment-tab=chart&showOutliers=true&smoothing=0&transformY=smoothing&xAxis=step):
+You can find an example of a completed run in this [Experiment](https://www.comet.ml/team-comet-ml/rllib-test/0d1f55a345e54b5ea915aff9ef85a4d2?experiment-tab=chart&showOutliers=true&smoothing=0&transformY=smoothing&xAxis=step)
